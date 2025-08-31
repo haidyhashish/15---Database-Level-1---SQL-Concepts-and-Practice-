@@ -1,9 +1,13 @@
 # 15 Database-Level 1 SQL(Concepts & Practice)
 
 Concepts
+
 Introduction
+
 What is Database?
+
 What is NULL?
+
 Primary Key vs Foreign Key / Referential Integrity
 What is Redundancy? and why it's a problem?
 What is Data Integrity? and Why it's Important and Critical?

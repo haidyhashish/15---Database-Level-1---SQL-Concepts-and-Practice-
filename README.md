@@ -39,20 +39,20 @@
         8. Convert Associative Entity to Relational Schema
         9. How to create Relational Schema on ERDPlus.com?
     4. [SQL - Data Definition Language - DDL](src/_1_concepts/_1_4_sql_data_definition_language_ddl)
-        1. [Create Database](src/_1_concepts/_1_4_sql_data_definition_language_ddl/_1_4_1_create_database)
-        2. [Create Database IF NOT EXISTS](src/_1_concepts/_1_4_sql_data_definition_language_ddl/_1_4_2_create_database_if_not_exists)
-        3. [Switch Database](src/_1_concepts/_1_4_sql_data_definition_language_ddl/_1_4_3_switch_database)
-        4. [Drop Database](src/_1_concepts/_1_4_sql_data_definition_language_ddl/_1_4_4_drop_database)
-        5. [Drop Database IF EXISTS](src/_1_concepts/_1_4_sql_data_definition_language_ddl/_1_4_5_drop_database_if_exists)
-        6. [Create Table](src/_1_concepts/_1_4_sql_data_definition_language_ddl/_1_4_6_create_table)
+        1. [Create Database]
+        2. [Create Database IF NOT EXISTS]
+        3. [Switch Database]
+        4. [Drop Database]
+        5. [Drop Database IF EXISTS]
+        6. [Create Table]
         7. SQL DataTypes
-        8. [Drop Table](src/_1_concepts/_1_4_sql_data_definition_language_ddl/_1_4_8_drop_table)
+        8. [Drop Table]
     5. [DDL - Alter Table Statement](src/_1_concepts/_1_5_ddl_alter_table_statement)
-        1. [Add Column](src/_1_concepts/_1_5_ddl_alter_table_statement/_1_5_1_add_column)
-        2. [Rename Column](src/_1_concepts/_1_5_ddl_alter_table_statement/_1_5_2_rename_column)
-        3. [Rename a table](src/_1_concepts/_1_5_ddl_alter_table_statement/_1_5_3_rename_a_table)
-        4. [Modify Column](src/_1_concepts/_1_5_ddl_alter_table_statement/_1_5_4_modify_column)
-        5. [Drop Column](src/_1_concepts/_1_5_ddl_alter_table_statement/_1_5_5_delete_column)
+        1. [Add Column]
+        2. [Rename Column]
+        3. [Rename a table]
+        4. [Modify Column]
+        5. [Drop Column]
     6. [Backup & Restore Database](src/_1_concepts/_1_6_backup_and_restore_database)
         1. [Backup Database](src/_1_concepts/_1_6_backup_and_restore_database/_1_6_1_backup_database)
         2. [Differential Backup](src/_1_concepts/_1_6_backup_and_restore_database/_1_6_2_differential_backup)
@@ -101,13 +101,13 @@
         5. Not Null Constraint
         6. [DEFAULT Constraint](src/_1_concepts/_1_16_more_about_constraints/_1_16_6_default_constraint)
         7. [Check Constraint](src/_1_concepts/_1_16_more_about_constraints/_1_16_7_check_constraint)
-        8. [Unique Constraint](src/_1_concepts/_1_16_more_about_constraints/_1_16_8_unique_constraint)
-        9. [SQL Index](src/_1_concepts/_1_16_more_about_constraints/_1_16_9_sql_index)
+        8. [Unique Constraint]
+        9. [SQL Index]
     17. Normalization
         1. What is Normalization?
         2. First Normal Form 1NF
         3. Second Normal Form 2NF
         4. Third Normal Form 3NF
 2. [Projects](src/_2_projects)
-    1. [University ERD](src/_2_projects/_2_1_university_erd)
-    2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
+    1. [University ERD]
+    2. [University Relational Schema]
